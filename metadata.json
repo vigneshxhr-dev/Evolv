@@ -1,0 +1,6 @@
+
+{
+  "name": "Evolv Clothing Interview Status Bot",
+  "description": "An AI-powered recruitment assistant that integrates with Google Sheets to provide real-time interview status updates to candidates.",
+  "requestFramePermissions": []
+}
